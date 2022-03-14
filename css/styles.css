@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=League+Spartan:wght@100;200;400;500;900&display=swap');
+
+
+
+
+.titulo-boasvindas {
+    color:white;
+    margin-top: 200px;
+    text-align: center;
+    background: blue];
+    font-size: 100px;
+    font-family: 'League Spartan', sans-serif;
+
+
+}
+
+
+body {
+
+    background-color: #4158D0;
+    display: block; 
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+body p {
+
+    color: white;
+    margin: 50px 300px 10px;
+    font-family: 'Hubballi', cursive;
+    text-align: center;
+
+}
+
+.email {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+
+
+}
+
+
+.email input {
+
+    border-radius: 10px;
+    border-color: pink;
+    display: block;
+    height: 30px;
+    width: 400px;
+    margin-top: 5px;
+    
+}
+
+.texto-email {
+
+    color: white;
+    text-align: center;
+    font-family: 'Hubballi', cursive;
+   
+
+}
+
+.botao_enviar {
+   
+  
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+  
+ 
+
+}
+
+
+
+.botao_enviar button {
+   
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    background: black;
+    color: white;
+    font-size: large;
+    border-color: black;
+    font-family: 'Hubballi', cursive;
+ 
+
+}
